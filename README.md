@@ -1,12 +1,12 @@
-# _Insurance Estimator Website_
+# _Celebrity Crush Quiz Website_
 
-#### _Display the amount of insurance due using jQuery if/else statements. {10/19/2018}_
+#### _Display the perfect celebrity crush for you depending on your age and gender using jQuery if/else statements. {10/19/2018}_
 
 #### By _**{Austin Schrader}**_
 
 ## Description
 
-_{Display the Boring Lecture website}_
+_Display the perfect celebrity crush for you depending on your age and gender using jQuery if/else statements_
 
 ## Setup/Installation Requirements
 
